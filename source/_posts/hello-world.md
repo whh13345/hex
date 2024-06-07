@@ -38,5 +38,5 @@ $ hexo deploy
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 $$
-\sum
+\sum_1^3\log
 $$
